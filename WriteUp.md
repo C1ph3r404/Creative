@@ -65,4 +65,4 @@ So we can run ping as root with passwd and the important one is *env_keep+=LD_PR
 ![root](screenshots/root.png)     
 
 ---
-Note📑 : Few Commands are there in [README.md](https://github.com/C1ph3r404/Creative/README.md)
+Note📑 : Few Commands are there in [README.md](https://github.com/C1ph3r404/Creative/blob/main/README.md)
