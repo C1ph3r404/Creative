@@ -1,4 +1,4 @@
-# 📝 Writeup – Blueprint (TryHackMe)
+# 📝 Writeup – Creative (TryHackMe)
 
 ---
 ## ENUMERATION
